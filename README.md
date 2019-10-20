@@ -26,7 +26,7 @@ I have an Alexa Echo Spot (I'm working to replace it but I find it lovely).
 
 # Which services you need to replace ?   
 
-+ Android
++ [Android](android.md)
 + Calendar
 + Chrome
 + Docs
