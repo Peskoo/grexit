@@ -41,4 +41,4 @@ I have an Alexa Echo Spot (I'm working to replace it but I found it lovely).
 
 
 
-[logo]: https://www.emoji.co.uk/files/emoji-one/travel-places-emoji-one/1759-small-airplane.png "Grexit"
+[logo]: http://www.millan.net/minimations/smileys/aeroplane.gif "Grexit"
