@@ -42,7 +42,7 @@ I'm using it on a One plus 3 (2016), and it works very well.
    + Spotify
    + Pocket Casts (Podcast)
    + SkyTube (Youtube)
-   + Kore (to control my Kodi mediacenter)
+   + Kore (To control my Kodi mediacenter)
 5. *Maps*
    + Citymapper
    + Sygic
@@ -51,7 +51,7 @@ I'm using it on a One plus 3 (2016), and it works very well.
    + Nextcloud
    + Notes
    + Taches
-   + Etar (calendar)
+   + Etar (Calendar)
    + DAVx5 (Synchro CalDAV/CardDAV for sharing calendars and contacts)
 7. *Money*
    + Lydia
@@ -59,13 +59,13 @@ I'm using it on a One plus 3 (2016), and it works very well.
    + Credit Mutuel
 8. *Others*
    + 1 password
-   + Saint Seiya (game)
-   + Forecastle (weather cast)
+   + Saint Seiya (Game)
+   + Forecastle (Weather cast)
    + Shazam
-   + Termux (terminal)
-   + Stanley (list the permissions for each application)
-   + Net Monitor (list all active connections)
-   + Private Location (replace your phone geolocalisation)
+   + Termux (Terminal)
+   + Stanley (List the permissions for each application)
+   + Net Monitor (List all active connections)
+   + Private Location (Replace your phone geolocalisation)
 
 
 # How to install Lineage on your phone
