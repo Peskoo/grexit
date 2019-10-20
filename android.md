@@ -7,57 +7,57 @@ To replace Play Store:
 + Aurora Store
 + Aptoide
 
-You can download your favorite app like Spotify, Instagram or whatever on Aurora Store and Aptoide.
-Sometimes an app isn't avalaible on Aurora but on Aptoide.
+You can download your favorite app like Spotify, Instagram or whatever on Aurora Store and Aptoide.    
+Sometimes an app isn't avalaible on Aurora but it is on Aptoide.
 
-**Cons:**
+**Cons:**    
 You can say goodbye to some games which are synchronised with play store for payement in app. Like the latest Mario Kart.    
-If the app is too much based on google services (like using google maps), it can't work properly :
+If the app is too much based on google services (like maps) it can't work properly.      
 + Apps using Google maps
-   Like Uber, Kapten, or G7 (France), the apps doesn't work at all. I must call taxi centers like in 1995 to order a cab.
-   Otherwise Deliveroo works but the tracking part based on google maps doesn't work, I just can see where the delivery man is.
+   Like Uber, Kapten, or G7 (France), the apps doesn't work at all. I must call taxi centers like in 1995 to order a cab.      
+   Otherwise Deliveroo works but the tracking part based on google maps doesn't work, I just can see where the delivery man is.     
    Citymappers works but I don't have maps :)   
 
 
-**Pros:**
+**Pros:**    
 I control a little bit more my datas.    
 No google services in background, this is better for privacy and battery life.   
 I'm using it on a One plus 3 (2016), and it works very well.  
 
 ### My apps:
-1. Communication
+1. *Communication*
    + Silence (SMS)
    + Telegram
    + WhatsApp
    + Spark (Email)
    + Teams Webex (Pro)
-2. Social Network
+2. *Social Networks*
    + Instagram
    + Twitter
    + Reddit
    + Fedilab (Mastodon)
-3. Internet
+3. *Internet*
    + Firefox Focus
-4. Medias
+4. *Medias*
    + Spotify
    + Pocket Casts (Podcast)
    + SkyTube (Youtube)
    + Kore (to control my Kodi mediacenter)
-5. Maps
+5. *Maps*
    + Citymapper
    + Sygic
    + Komoot
-6. Cloud
+6. *Cloud*
    + Nextcloud
    + Notes
    + Taches
    + Etar (calendar)
    + DAVx5 (Synchro CalDAV/CardDAV for sharing calendars and contacts)
-7. Money
+7. *Money*
    + Lydia
    + N26
    + Credit Mutuel
-8. Others
+8. *Others*
    + 1 password
    + Saint Seiya (game)
    + Forecastle (weather cast)
