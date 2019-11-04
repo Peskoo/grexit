@@ -21,7 +21,7 @@ where freedom has more value.
 **My sins :**    
 I still use Youtube because I've subscribed to a lot of channels and I support creators with adds.   
 I still use google maps because I found nothing as good as gmaps and the gps application Waze (I'm trying Sygic).   
-I have an Alexa Echo Spot (I'm working to replace it but I find it lovely).
+I have an Alexa Echo Spot (I'm working to replace it but It looks lovely).
 
 
 # Which services you need to replace ?   

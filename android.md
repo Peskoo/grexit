@@ -8,7 +8,6 @@ To replace Play Store:
 + Aptoide
 
 You can download your favorite app like Spotify, Instagram or whatever on Aurora Store and Aptoide.    
-Sometimes an app isn't avalaible on Aurora but it is on Aptoide.
 
 **Cons:**    
 You can say goodbye to some games which are synchronised with play store for payement in app. Like the latest Mario Kart.    
@@ -23,6 +22,11 @@ If the app is too much based on google services (like maps) it can't work proper
 I control a little bit more my datas.    
 No google services in background, this is better for privacy and battery life.   
 I'm using it on a One plus 3 (2016), and it works very well.  
+
+
+*Contacts:*
+I suggest to use nextcloud contacts to store your contacts.
+
 
 ### My apps:
 1. *Communication*
