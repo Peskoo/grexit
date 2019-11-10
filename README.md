@@ -29,7 +29,7 @@ I have an Alexa Echo Spot (I'm working to replace it but It looks lovely).
 + [Android](android.md)
 + [Calendar](calendar.md)
 + [Chrome](chrome.md)
-+ Docs
++ [Docs](docs.md)
 + Drive
 + Gmail
 + Hangout
