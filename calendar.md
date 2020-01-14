@@ -27,3 +27,6 @@ mobile) which accepts these protocol (WebDav).
 
 
 Tutorial: [How to sync calendars and contacts between nextcloud and your devices](https://ownyourbits.com/2017/12/30/sync-nextcloud-tasks-calendars-and-contacts-on-your-android-device/)
+
+Otherwise you can find alternatives with a [webmail](gmail.md) which contains
+calendar feature.
