@@ -14,7 +14,7 @@ Free offer with :
 
 
 ### Belgium   
-**[MailFence](https://mailfence.com/)**
+**[MailFence](https://mailfence.com/)**  
 Free offer with :
   + 500Mb
   + 500Mb for your documents
@@ -25,7 +25,7 @@ Free offer with :
 
 
 ### France    
-**[Mailo](https://www.mailo.com/)**
+**[Mailo](https://www.mailo.com/)**  
 Free offer with :
   + 1Gb
   + 500Mb for your documents
@@ -38,7 +38,7 @@ Free offer with :
 
 
 ### Germany      
-**[Tutanota](https://tutanota.com)**
+**[Tutanota](https://tutanota.com)**  
 Free offer with :
   + 1Gb
   + Calendar
