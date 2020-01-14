@@ -31,7 +31,7 @@ I have an Alexa Echo Spot (I'm working to replace it but It looks lovely).
 + [Chrome](chrome.md)
 + [Docs](docs.md)
 + [Drive](drive.md)
-+ Gmail
++ [Gmail](gmail.md)
 + Hangout
 + Maps
 + Search
