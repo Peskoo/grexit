@@ -4,16 +4,16 @@ Here I will focus on webmail services. Easy to setup and secure !
 I live in Europe so most of those services will be GDPR compliant.
 
 Choose the country where your data will be:  
-+ Switzerland  
+### Switzerland     
 **[ProtonMail](https://protonmail.com/)**   
 Free offer with :  
   + 500Mb
   + 150 messages per day
 
-First upgrade : 4€/month
+  First upgrade : 4€/month
 
 
-+ Belgium
+### Belgium   
 **[MailFence](https://mailfence.com/)**
 Free offer with :
   + 500Mb
@@ -21,10 +21,10 @@ Free offer with :
   + Calendar
   + Contacts
 
-First upgrade : 2,50€/month
+  First upgrade : 2,50€/month
 
 
-+ France
+### France    
 **[Mailo](https://www.mailo.com/)**
 Free offer with :
   + 1Gb
@@ -34,17 +34,17 @@ Free offer with :
   + Calendar
   + Contacts
 
-First upgrade : 1€/month
+  First upgrade : 1€/month
 
 
-+ Germany
+### Germany      
 **[Tutanota](https://tutanota.com)**
 Free offer with :
   + 1Gb
   + Calendar
   + Contacts
 
-First upgrade : 1€/month
+  First upgrade : 1€/month
 
 
 The only one I didn't test is *MailFence*, but there is some good reviews on his
