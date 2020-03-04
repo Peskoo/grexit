@@ -5,7 +5,7 @@ When you're lack of memory in real life as me, you must adapt yourself. So I'm
 a huge user of docs. To write some todo list, reminder, or tutorials, etc.   
 
 I start to use notes on macOS, it was synchronised with my apple ecosystem but 
-if all your devices as not a fruit this is a little bit more difficult.  
+if all your devices aren't from apple this is a little bit more difficult.  
 
 **Which alternatives ?**
 
