@@ -1,7 +1,7 @@
 # Gmail
 
 Here I will focus on webmail services. Easy to setup and secure !  
-I live in Europe so most of those services will be GDPR compliant.
+I live in Europe so most of those services will be GDPR compliant except for fastmail.
 
 Choose the country where your data will be:  
 ### Switzerland     
@@ -51,3 +51,12 @@ The only one I didn't test is *MailFence*, but there is some good reviews on his
 security and his engagement with privacy.  
 All the data will be collected and treated under GDPR, so no third parties without
 any informations by the host.
+
+Extra:
+### Australia
+**[FastMail](https://www.fastmail.com/)**
+3$/month minimum :
+  + 2Gb
+  + Calendar
+  + Contacts
+
